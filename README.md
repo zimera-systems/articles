@@ -1,6 +1,6 @@
 # Articles
 
-Replication of Zimera articles at [dev.to](https://dev.to/zimera).
+Replication of Zimera Systems' articles at [dev.to](https://dev.to/zimera).
 
 ## License
 
