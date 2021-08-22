@@ -2,7 +2,7 @@
 
 As a beginner in Microsoft ecosystem, especially under Linux, I found a little bit difficult to get everything works as expected. Last week, I tried to get [WebSharper](https://websharper.com/) up and run but turns out I can not get it worked. I probably will write about this later. The solution is pretty simple: I need to have .NET SDK - LTS version (3.1.x) while I only have *Current* version (5.x.x).
 
-So yes, I have to intall more than one SDKs and Runtimes. How to do that? `dotnet` command - AFAIK - can not be used to do that. The answer is [dotnet-install scripts](https://dotnet.microsoft.com/download/dotnet/scripts) - available for Windows and for `Bash` shell. Using this install script, I can install more than one SDK and Runtimes. Here's how.
+So yes, I have to install more than one SDKs and Runtimes. How to do that? `dotnet` command - AFAIK - can not be used to do that. The answer is [dotnet-install scripts](https://dotnet.microsoft.com/download/dotnet/scripts) - available for Windows and for `Bash` shell. Using this install script, I can install more than one SDK and Runtimes. Here's how.
 
 ## Install LTS Version First
 
