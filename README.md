@@ -8,8 +8,8 @@ Replication of Zimera Systems' articles at [dev.to](https://dev.to/zimera).
 2. [SpaceVim and Language Server Protocol](02-spacevim-lsp/). [Original article](https://dev.to/zimera/spacevim-and-language-server-protocol-49c6).
 3. [ERPNext Installation Details](03-erpnext-installation-details/). [Original article](https://dev.to/zimera/erpnext-installation-details-1ii1).
 4. [Getting Started with F# and VSCode in Linux](04-getting-started-fsharp-vscode-linux/). [Original article](https://dev.to/zimera/getting-started-with-f-and-vscode-in-linux-5blc).
-5. [Battery Notification in Audio using Fish Shell](05-battery-notification-audio-fish/). [Original article](https://dev.to/zimera/battery-notification-in-audio-using-fish-shell-3lmk)
-6. [Multiple .NET SDKs and Runtimes Installation](06-install-multiple-dotnet-sdk/). [Original article](https://dev.to/zimera/multiple-net-sdk-and-runtimes-installation-28bi)
+5. [Battery Notification in Audio using Fish Shell](05-battery-notification-audio-fish/). [Original article](https://dev.to/zimera/battery-notification-in-audio-using-fish-shell-3lmk).
+6. [Multiple .NET SDKs and Runtimes Installation](06-install-multiple-dotnet-sdk/). [Original article](https://dev.to/zimera/multiple-net-sdk-and-runtimes-installation-28bi).
 
 ## License
 

@@ -1,4 +1,4 @@
-i# Battery Notification in Audio using Fish Shell
+# Battery Notification in Audio using Fish Shell
 
 Some desktop environments provide battery notification so that every time battery is low or maybe full, the DE will notify us. The notification usually comes as something like tooltip which may not be handy if we are not in front of our monitor or maybe still concentrate on our tasks. Also, sometimes I want to change my DE or window manager - KDE to GNOME, AwesomeWM to Spectrwm, etc. In this situation I usually stuck. [Conky](https://github.com/brndnmtthws/conky) can help but changing WM / DE involves struggling with configuration file(s) and/or more software (panel, for example).
 
