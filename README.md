@@ -10,6 +10,7 @@ Replication of Zimera Systems' articles at [dev.to](https://dev.to/zimera).
 4. [Getting Started with F# and VSCode in Linux](04-getting-started-fsharp-vscode-linux/). [Original article](https://dev.to/zimera/getting-started-with-f-and-vscode-in-linux-5blc).
 5. [Battery Notification in Audio using Fish Shell](05-battery-notification-audio-fish/). [Original article](https://dev.to/zimera/battery-notification-in-audio-using-fish-shell-3lmk).
 6. [Multiple .NET SDKs and Runtimes Installation](06-install-multiple-dotnet-sdk/). [Original article](https://dev.to/zimera/multiple-net-sdk-and-runtimes-installation-28bi).
+7. [WebSharper: Getting Started Easily](07-websharper-getting-started-easily/). [Original article](https://dev.to/zimera/websharper-getting-started-easily-5haa).
 
 ## License
 
