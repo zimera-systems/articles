@@ -11,6 +11,7 @@ Replication of Zimera Systems' articles at [dev.to](https://dev.to/zimera).
 5. [Battery Notification in Audio using Fish Shell](05-battery-notification-audio-fish/). [Original article](https://dev.to/zimera/battery-notification-in-audio-using-fish-shell-3lmk).
 6. [Multiple .NET SDKs and Runtimes Installation](06-install-multiple-dotnet-sdk/). [Original article](https://dev.to/zimera/multiple-net-sdk-and-runtimes-installation-28bi).
 7. [WebSharper: Getting Started Easily](07-websharper-getting-started-easily/). [Original article](https://dev.to/zimera/websharper-getting-started-easily-5haa).
+8. [Using YugabyteDB in Python App Development](08-python-yugabytedb/). [Original article](https://dev.to/zimera/using-yugabytedb-in-python-app-development-2en5).
 
 ## License
 
